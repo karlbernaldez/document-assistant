@@ -1,1 +1,2 @@
-# document-assistant
+# AI Document Assistant
+

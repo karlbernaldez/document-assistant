@@ -11,7 +11,7 @@ The AI Document Assistant is an intelligent solution designed to help users effi
 - **Document Storage**: Store and manage documents for later retrieval.
 - **Multi-format Support**: Handle various document formats like PDF, DOCX, TXT, and more.
 
-## Technology Stack
+## Technology Stack 
 
 - **Backend**: Python
   - Flask (or FastAPI) for handling requests and API.
